@@ -1,2 +1,2 @@
 # OmyShells
-Usefule Shells (maybe)
+Useful Shells (maybe)
